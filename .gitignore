@@ -1,0 +1,15 @@
+# Python 가상환경 무시
+venv/
+__pycache__/
+*.pyc
+
+# Node.js 의존성 및 빌드 파일 무시
+frontend/node_modules/
+frontend/dist/
+
+# 환경변수 파일 무시
+.env
+frontend/.env
+
+# VSCode 같은 IDE 설정 무시
+.vscode/
